@@ -58,6 +58,7 @@ class Tomartod:
             {
                 "init_data": data,
                 "invite_code": "",
+                "is_bot": False
             }
         )
         self.del_authorization()
